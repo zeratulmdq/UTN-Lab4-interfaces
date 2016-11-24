@@ -1,5 +1,4 @@
 # `API Programación avanzada II`
-#
 #### `Entities`
 #### Token
 ```
